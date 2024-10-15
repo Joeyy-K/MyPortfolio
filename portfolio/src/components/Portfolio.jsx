@@ -13,6 +13,7 @@ const Portfolio = () => {
                     title={project.title}
                     stack={project.stack}
                     link={project.link}
+                    github_link={project.github_link}
                 />
             ))}
         </div>
