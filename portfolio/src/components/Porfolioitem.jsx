@@ -1,8 +1,7 @@
 import React from 'react'
 
-function Porfolioitem({ title, imgUrl, stack, link, github_link }) {
+function Porfolioitem({ title, imgUrl, stack, link }) {
   return (
-        <>
         <a
             href={link}
             target="_blank"
@@ -24,15 +23,6 @@ function Porfolioitem({ title, imgUrl, stack, link, github_link }) {
                 </p>
             </div>
         </a>
-        <a
-            href={github_link}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"
-        >
-          Github Link: {github_link}  
-        </a>
-    </>
   )
 }
 
