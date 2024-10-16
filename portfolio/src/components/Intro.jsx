@@ -7,7 +7,7 @@ const Intro = () => {
         Joe Karanja
       </h1>
       <h2 className="text-2xl md:text-3xl font-medium mb-6 text-indigo-700 dark:text-indigo-300">
-        Senior Software Engineer & Full Stack Developer
+        Junior Software Engineer & Full Stack Developer
       </h2>
       <p className="text-lg max-w-2xl mb-8 text-gray-700 dark:text-gray-300">
         With over 1.5 years of experience in designing and building intricate systems, 
