@@ -12,9 +12,9 @@ export default [
         link: "https://skulskul.onrender.com",
     },
     {
-        title: "Developer PortFolio",
+        title: "PayLink",
         imgUrl: "/assets/Joe.jpg",
-        stack: ["React", "Tailwind", "Vite"],
-        link: "https://myportfolio-fshv.onrender.com/",
+        stack: ["React", "Tailwind", "Vite", "SQL", "Python"],
+        link: "https://pailink.netlify.app/",
     }
 ]
